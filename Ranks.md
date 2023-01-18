@@ -7,3 +7,9 @@ Note: From highest rank to lowest rank
 - Fifth Highest Rank: VIP++
 - A Great Honor: VIP
 - Time To Get Bossy: Boss
+- Commander Of A Force: Commisionary-Boss
+- Hello I'm Almost A Boss: Co-Boss
+- I'm A Asian Legendary: Asian Legendary
+- Legendarys Rock: Legendary
+- Asian Legend Be Like: Asian Legend
+- Not A Legendary: Legend
