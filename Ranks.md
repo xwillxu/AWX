@@ -13,3 +13,4 @@ Note: From highest rank to lowest rank
 - Legendarys Rock: Legendary
 - Asian Legend Be Like: Asian Legend
 - Not A Legendary: Legend
+- I'm A God: God Member
