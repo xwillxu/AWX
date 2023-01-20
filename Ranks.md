@@ -32,4 +32,4 @@ Note: From highest rank to lowest rank
 - I Hate My Job: Bad Member
 - Nooooo: Prisoner
 - Your Banned: Banned Member
-- I'm Dead:
+- I'm Dead: Enemy
