@@ -14,3 +14,18 @@ Note: From highest rank to lowest rank
 - Asian Legend Be Like: Asian Legend
 - Not A Legendary: Legend
 - I'm A God: God Member
+- Like A God: Godly Member
+- Supers Rock: Super Member
+- Hard As Diamond: Diamond Member
+- Hard As Steel: Steel Member
+- Stone Age: Stone Member
+- Acadia Tree: Tree Member
+- I Like To Trade: Traitor
+- Architect Heaven: Architect
+- Member x 3: Member++
+- Member x 2: Member+
+- This Is Where It All Begins: Member
+- Demoted: Member-
+- No Why I So Low On The Totem Poll: Member--
+- I Suck: Sucky Member
+- I Hate My Job: Bad Member
