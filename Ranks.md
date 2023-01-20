@@ -27,5 +27,9 @@ Note: From highest rank to lowest rank
 - This Is Where It All Begins: Member
 - Demoted: Member-
 - No Why I So Low On The Totem Poll: Member--
+- This Is Ok: Ally Note: Can Easily Jump Up To Member+ 
 - I Suck: Sucky Member
 - I Hate My Job: Bad Member
+- Nooooo: Prisoner
+- Your Banned: Banned Member
+- I'm Dead:
