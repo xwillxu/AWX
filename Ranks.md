@@ -1,5 +1,5 @@
 Ranking goes somewhat like this:
-Note: From highest rank to lowest rank
+Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
 - Top Rank: Leader
 - Second Highest Rank: Honor-Co-Leader
 - Third Highest Rank: Co-Leader
