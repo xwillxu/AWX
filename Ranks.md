@@ -20,9 +20,7 @@ Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
 - Hard As Diamond: Diamond Agent
 - Hard As Steel: Steel Agent
 - Stone Age: Stone Agent
-- Acadia Tree: Tree Agent
-- I Like To Trade: Traitor
-- Architect Heaven: Architect
+- Acadia Tree: Acadia Agent
 - Member x 3: Agent++
 - Member x 2: Agent+
 - This Is Where It All Begins: Agent
