@@ -13,13 +13,14 @@ Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
 - Legendarys Rock: Legendary
 - Asian Legend Be Like: Asian Legend
 - Not A Legendary: Legend
-- I'm A God: God Member
-- Like A God: Godly Member
-- Supers Rock: Super Member
-- Hard As Diamond: Diamond Member
-- Hard As Steel: Steel Member
-- Stone Age: Stone Member
-- Acadia Tree: Tree Member
+- I'm A God: God Agent
+- Like A God: Godly Agent
+- Superior To You: Superior Agent
+- Supers Rock: Super Agent
+- Hard As Diamond: Diamond Agent
+- Hard As Steel: Steel Agent
+- Stone Age: Stone Agent
+- Acadia Tree: Tree Agent
 - I Like To Trade: Traitor
 - Architect Heaven: Architect
 - Member x 3: Member++
