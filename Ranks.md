@@ -23,14 +23,14 @@ Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
 - Acadia Tree: Tree Agent
 - I Like To Trade: Traitor
 - Architect Heaven: Architect
-- Member x 3: Member++
-- Member x 2: Member+
-- This Is Where It All Begins: Member
-- Demoted: Member-
-- No Why I So Low On The Totem Poll: Member--
-- This Is Ok: Ally Note: Can Easily Jump Up To Member+ 
-- I Suck: Sucky Member
-- I Hate My Job: Bad Member
+- Member x 3: Agent++
+- Member x 2: Agent+
+- This Is Where It All Begins: Agent
+- Demoted: Agent-
+- No Why I So Low On The Totem Poll: Agent--
+- This Is Ok: Ally Note: Can Easily Jump Up To Agent+ 
+- I Suck: Sucky Agent
+- I Hate My Job: Bad Agent
 - Nooooo: Prisoner
-- Your Banned: Banned Member
+- Your Banned: Banned Agent
 - I'm Dead: Enemy
