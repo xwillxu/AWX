@@ -1,1 +1,1 @@
-### These jobs are only available during snow wars.
+### These jobs are only available during snow wars:
