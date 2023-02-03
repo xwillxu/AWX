@@ -6,5 +6,5 @@
 - Trader: Trades pieces of ice for other pieces of ice that are about the same size as your piece of ice.
 - Raider: Goes on raids on enemy bases lead by the lead commander.
 - Commander: Commands Raiders to fight for them.
-- Public Relations(PR):
+- Public Relations(PR): Tries to make peace with other bases.
 - Persuader:
