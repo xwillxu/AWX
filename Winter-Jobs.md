@@ -7,4 +7,4 @@
 - Raider: Goes on raids on enemy bases lead by the lead commander.
 - Commander: Commands Raiders to fight for them.
 - Public Relations(PR): Tries to make peace with other bases.
-- Persuader:
+- Persuader: Pesuades lower ranking agents to keep on working hard.
