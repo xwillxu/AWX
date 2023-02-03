@@ -9,3 +9,4 @@
 - Public Relations(PR): Tries to make peace with other bases.
 - Persuader: Pesuades lower ranking agents to keep on working hard.
 - Scout: Scouts ahead for snowballs and enemys.
+- Pusher: Pushes a snowball back to base.
