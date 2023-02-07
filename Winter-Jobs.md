@@ -10,5 +10,9 @@
 - Persuader: Pesuades lower ranking agents to keep on working hard.
 - Scout: Scouts ahead for snowballs and enemys.
 - Pusher: Pushes a snowball back to base.
-- Peacekeeper: Proctects the base from inside spies and enemies.
+- Peace-keeper: Proctects the base from inside spies and enemies.
 - Defender: Defends the base from enemies coming from the ouside.
+- Soldiers: 1. Light artillery: A light footed agent with 
+            2. Regular artillery
+            3. Heavy artillery
+            4. Destoyer
