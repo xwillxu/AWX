@@ -11,3 +11,4 @@
 - Scout: Scouts ahead for snowballs and enemys.
 - Pusher: Pushes a snowball back to base.
 - Peacekeeper: Proctects the base from inside spies and enemies.
+- Defender: Defends the base from enemies coming from the ouside.
