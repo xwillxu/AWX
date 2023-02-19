@@ -12,11 +12,4 @@
 - Pusher: Pushes a snowball back to base.
 - Peace-keeper: Proctects the base from inside spies and enemies.
 - Defender: Defends the base from enemies coming from the ouside.
-- Soldiers: 1. Light artillery: A fast and agile agent (with running shoes) but, can't take much damage. That agent also doesn't deal that much damage. Stats: Speed: 7-
-10/10 Agilty: 3-5/5 Hp: 20-40/100 Damage: 1-7/20.
-
-            2. Regular artillery: A relatively fast and agile agent (with boots), it's basically Light artillery
-            
-            3. Heavy artillery
-            
-            4. Destroyer
+- Soldiers: Light, Normal, Heavy Artillery, and Destroyers are all soldiers
