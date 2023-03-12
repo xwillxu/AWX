@@ -1,17 +1,16 @@
-Ranking goes somewhat like this:
-Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
-- Top Rank: Leader
-- Second Highest Rank: Honor-Co-Leader
-- Third Highest Rank: Co-Leader
-- Fourth Highest Rank: VIP+++ Note: Only able to be acquired after one or more years of VIP or a higher rank.
-- Fifth Highest Rank: VIP++
-- A Great Honor: VIP
-- Time To Get Bossy: Boss
-- Commander Of A Force: Commisionary-Boss
-- Hello I'm Almost A Boss: Co-Boss
-- I'm A Asian Legendary: Asian Legendary
-- Legendarys Rock: Legendary
-- Asian Legend Be Like: Asian Legend
+## Ranking goes somewhat like this: Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
+- Top Rank: Leader - Infinite Jobs
+- Second Highest Rank: Commissionary-Leader - 10 Jobs
+- Third Highest Rank: Co-Leader - 9 Jobs
+- Fourth Highest Rank: VIP+++ | Note: Only able to be acquired after one or more years of VIP or a higher rank - 8 Jobs
+- Fifth Highest Rank: VIP++ - 7 Jobs
+- A Great Honor: VIP - 7 Jobs
+- Time To Get Bossy: Boss - 6 Jobs
+- Commander Of A Force: Commisionary-Boss - 6 Jobs
+- Hello I'm Almost A Boss: Co-Boss - 6 Jobs
+- I'm A Asian Legendary: Asian Legendary - 5 Jobs
+- Legendarys Rock: Legendary - 5 Jobs
+- Asian Legend Be Like: Asian Legend - 5 Jobs
 - Not A Legendary: Legend - 5 Jobs
 - I'm A God: God Agent - 4 Jobs
 - Like A God: Godly Agent - 4 Jobs
