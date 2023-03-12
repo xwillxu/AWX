@@ -28,7 +28,7 @@ Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
 - No Why I So Low On The Totem Poll: Agent--
 - This Is Ok: Ally Note: Can Easily Jump Up To Agent+ 
 - I Suck: Sucky Agent
-- I Hate My Job: Bad Agent
-- Nooooo: Prisoner
-- Your Banned: Banned Agent
-- I'm Dead: Enemy
+- I Hate My Job: Bad Agent - 1 Job
+- Nooooo: Prisoner - 0 Jobs
+- Your Banned: Banned Agent - 0 Jobs
+- I'm Dead: Enemy - 0 Jobs
