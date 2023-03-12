@@ -31,4 +31,4 @@ Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
 - I Hate My Job: Bad Agent
 - Nooooo: Prisoner
 - Your Banned: Banned Agent
-- I'm Dead: Enemy
+- I'm Dead: Enemy - 0 Jobs
