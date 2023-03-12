@@ -12,22 +12,22 @@ Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
 - I'm A Asian Legendary: Asian Legendary
 - Legendarys Rock: Legendary
 - Asian Legend Be Like: Asian Legend
-- Not A Legendary: Legend
-- I'm A God: God Agent
-- Like A God: Godly Agent
-- Superior To You: Superior Agent
-- Supers Rock: Super Agent
-- Hard As Diamond: Diamond Agent
-- Hard As Steel: Steel Agent
-- Stone Age: Stone Agent
-- Acadia Tree: Acadia Agent
-- Member x 3: Agent++
-- Member x 2: Agent+
-- This Is Where It All Begins: Agent
-- Demoted: Agent-
-- No Why I So Low On The Totem Poll: Agent--
-- This Is Ok: Ally Note: Can Easily Jump Up To Agent+ 
-- I Suck: Sucky Agent
+- Not A Legendary: Legend - 5 Jobs
+- I'm A God: God Agent - 4 Jobs
+- Like A God: Godly Agent - 4 Jobs
+- Superior To You: Superior Agent - 3 Jobs
+- Supers Rock: Super Agent - 3 Jobs
+- Hard As Diamond: Diamond Agent - 3 Jobs
+- Hard As Steel: Steel Agent - 2 Jobs
+- Stone Age: Stone Agent - 2 Jobs
+- Acadia Tree: Acadia Agent - 2 Jobs
+- Member x 3: Agent++ - 2 Jobs
+- Member x 2: Agent+ - 1 Job
+- This Is Where It All Begins: Agent - 1 Job
+- Demoted: Agent- - 1 Job
+- No Why I So Low On The Totem Poll: Agent-- - 1 Job
+- This Is Ok: Ally | Note: Can Easily Jump Up To Agent+ - 1 Job
+- I Suck: Sucky Agent - 1 Job
 - I Hate My Job: Bad Agent - 1 Job
 - Nooooo: Prisoner - 0 Jobs
 - Your Banned: Banned Agent - 0 Jobs
