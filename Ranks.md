@@ -1,20 +1,20 @@
 ## Ranking goes somewhat like this: Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
-- Top Rank: Leader - Infinite Jobs
-- Second Highest Rank: Commissionary-Leader - 10 Jobs
-- Third Highest Rank: Co-Leader - 9 Jobs
-- Fourth Highest Rank: VIP+++ | Note: Only able to be acquired after one or more years of VIP or a higher rank - 8 Jobs
-- Fifth Highest Rank: VIP++ - 7 Jobs
-- A Great Honor: VIP - 7 Jobs
-- Time To Get Bossy: Boss - 6 Jobs
-- Commander Of A Force: Commisionary-Boss - 6 Jobs
-- Hello I'm Almost A Boss: Co-Boss - 6 Jobs
-- I'm A Asian Legendary: Asian Legendary - 5 Jobs
-- Legendarys Rock: Legendary - 5 Jobs
-- Asian Legend Be Like: Asian Legend - 5 Jobs
-- Not A Legendary: Legend - 5 Jobs
-- I'm A God: God Agent - 4 Jobs
-- Like A God: Godly Agent - 4 Jobs
-- Superior To You: Superior Agent - 3 Jobs
+1. Top Rank: Leader - Infinite Jobs
+2. Second Highest Rank: Commissionary-Leader - 10 Jobs
+3. Third Highest Rank: Co-Leader - 9 Jobs
+4. Fourth Highest Rank: VIP+++ | Note: Only able to be acquired after one or more years of VIP or a higher rank - 8 Jobs
+5. Fifth Highest Rank: VIP++ - 7 Jobs
+6. A Great Honor: VIP - 7 Jobs
+7. Time To Get Bossy: Boss - 6 Jobs
+8. Commander Of A Force: Commisionary-Boss - 6 Jobs
+9. Hello I'm Almost A Boss: Co-Boss - 6 Jobs
+10. I'm A Asian Legendary: Asian Legendary - 5 Jobs
+11. Legendarys Rock: Legendary - 5 Jobs
+12. Asian Legend Be Like: Asian Legend - 5 Jobs
+13. Not A Legendary: Legend - 5 Jobs
+14. I'm A God: God Agent - 4 Jobs
+15. Like A God: Godly Agent - 4 Jobs
+16. Superior To You: Superior Agent - 3 Jobs
 - Supers Rock: Super Agent - 3 Jobs
 - Hard As Diamond: Diamond Agent - 3 Jobs
 - Hard As Steel: Steel Agent - 2 Jobs
