@@ -1,4 +1,4 @@
-## Winter Jobs: Available During Snow Wars: December 21st - Early March
+## Winter Jobs: Available During Snow Wars: December 21st - March 11th
 #### Notice: Agents can have multiple jobs.
 
 - Architect: Collects pieces of snow/ice from abondoned/broken snowballs then takes them back to base.
