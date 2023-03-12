@@ -1,9 +1,9 @@
 ## Ranking goes somewhat like this: Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
-1. Top Rank: Leader - Infinite Jobs
-2. Second Highest Rank: Commissionary-Leader - 10 Jobs
-3. Third Highest Rank: Co-Leader - 9 Jobs
-4. Fourth Highest Rank: VIP+++ | Note: Only able to be acquired after one or more years of VIP or a higher rank - 8 Jobs
-5. Fifth Highest Rank: VIP++ - 7 Jobs
+#### 🥇1. Top Rank: Leader - Infinite Jobs
+#### 🥈2. Second Highest Rank: Commissionary-Leader - 10 Jobs
+#### 🥉3. Third Highest Rank: Co-Leader - 9 Jobs
+#### 🏅4. Fourth Highest Rank: VIP+++ | Note: Only able to be acquired after one or more years of VIP or a higher rank - 8 Jobs
+#### 🏅5. Fifth Highest Rank: VIP++ - 7 Jobs
 6. A Great Honor: VIP - 7 Jobs
 7. Time To Get Bossy: Boss - 6 Jobs
 8. Commander Of A Force: Commisionary-Boss - 6 Jobs
