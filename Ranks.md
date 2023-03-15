@@ -4,14 +4,14 @@
 #### 🥉3. Third Highest Rank: Co-Leader - 9 Jobs
 #### 🏅4. Fourth Highest Rank: VIP+++ | Note: Only able to be acquired after one or more years of VIP or a higher rank - 8 Jobs
 #### 🏅5. Fifth Highest Rank: VIP++ - 7 Jobs
-6. A Great Honor: VIP - 7 Jobs
-7. Time To Get Bossy: Boss - 6 Jobs
-8. Commander Of A Force: Commisionary-Boss - 6 Jobs
-9. Hello I'm Almost A Boss: Co-Boss - 6 Jobs
-10. I'm A Asian Legendary: Asian Legendary - 5 Jobs
-11. Legendarys Rock: Legendary - 5 Jobs
-12. Asian Legend Be Like: Asian Legend - 5 Jobs
-13. Not A Legendary: Legend - 5 Jobs
+😀6. A Great Honor: VIP - 7 Jobs
+😉7. Time To Get Bossy: Boss - 6 Jobs
+😆8. Commander Of A Force: Commisionary-Boss - 6 Jobs
+🕺9. Hello I'm Almost A Boss: Co-Boss - 6 Jobs
+🌏10. I'm A Asian Legendary: Asian Legendary - 5 Jobs
+🐉11. Legendarys Rock: Legendary - 5 Jobs
+🧑12. Asian Legend Be Like: Asian Legend - 5 Jobs
+🐲13. Not A Legendary: Legend - 5 Jobs
 14. I'm A God: God Agent - 4 Jobs
 15. Like A God: Godly Agent - 4 Jobs
 16. Superior To You: Superior Agent - 3 Jobs
