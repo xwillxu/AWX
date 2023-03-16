@@ -51,9 +51,14 @@
 
 😔26. No Why I So Low On The Totem Poll: Agent-- - 1 Job
 
-27. This Is Ok: Ally | Note: Can Easily Jump Up To Agent+ - 1 Job
-28. I Suck: Sucky Agent - 1 Job
-29. I Hate My Job: Bad Agent - 1 Job
-30. Nooooo: Prisoner - 0 Jobs
-31. Your Banned: Banned Agent - 0 Jobs
-32. I'm Dead: Enemy - 0 Jobs
+✌27. This Is Ok: Ally | Note: Can Easily Jump Up To Agent+ - 1 Job
+
+😓28. I Suck: Sucky Agent - 1 Job
+
+😡29. I Hate My Job: Bad Agent - 1 Job
+
+😱30. Nooooo: Prisoner - 0 Jobs
+
+❌31. Your Banned: Banned Agent - 0 Jobs
+
+💀32. I'm Dead: Enemy - 0 Jobs
