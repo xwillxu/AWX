@@ -1,15 +1,15 @@
 ## Ranking goes somewhat like this: Note: From highest rank to lowest rank and there are Thirty-Two Ranks.
-#### 🥇1. Top Rank: Leader - Infinite Jobs
+#### 🥇1. Top Rank: Leader - Infinite Jobs - Austin
 
-#### 🥈2. Second Highest Rank: Commissionary-Leader - 10 Jobs
+#### 🥈2. Second Highest Rank: Commissionary-Leader - 10 Jobs - William M
 
-#### 🥉3. Third Highest Rank: Co-Leader - 9 Jobs
+#### 🥉3. Third Highest Rank: Co-Leader - 9 Jobs - Xwill
 
 #### 🏅4. Fourth Highest Rank: VIP+++ | Note: Only able to be acquired after one or more years of VIP or a higher rank - 8 Jobs
 
-#### 🏅5. Fifth Highest Rank: VIP++ - 7 Jobs
+#### 🏅5. Fifth Highest Rank: VIP++ - 7 Jobs - Ricky
 
-😀6. A Great Honor: VIP - 7 Jobs
+😀6. A Great Honor: VIP - 7 Jobs - Adam
 
 😉7. Time To Get Bossy: Boss - 6 Jobs
 
@@ -19,9 +19,9 @@
 
 🌏10. I'm A Asian Legendary: Asian Legendary - 5 Jobs
 
-🐉11. Legendarys Rock: Legendary - 5 Jobs
+🐉11. Legendarys Rock: Legendary - 5 Jobs - Daniel
 
-🧑12. Asian Legend Be Like: Asian Legend - 5 Jobs
+🧑12. Asian Legend Be Like: Asian Legend - 5 Jobs - Dylan, Edward
 
 🐲13. Not A Legendary: Legend - 5 Jobs
 
@@ -39,7 +39,7 @@
 
 ⛏20. Stone Age: Stone Agent - 2 Jobs
 
-🌲21. Tree Of The Gods: God Tree Agent - 2 Jobs
+🌲21. Tree Of The Gods: God Tree Agent - 2 Jobs - Cyrus
 
 🙂22. Member x 3: Agent++ - 2 Jobs
 
@@ -59,6 +59,6 @@
 
 😱30. Nooooo: Prisoner - 0 Jobs
 
-❌31. Your Banned: Banned Agent - 0 Jobs
+❌31. Your Banned: Banned Agent - 0 Jobs - Lucas
 
 💀32. I'm Dead: Enemy - 0 Jobs
