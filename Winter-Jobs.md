@@ -13,7 +13,7 @@
 - Peace-keeper: Proctects the base from inside spies and enemies.
 - Defender: Defends the base from enemies coming from the ouside.
 - Light Soldier: Quick soldier that go and attack enemies by attacking then retreating and repeating this process.
-- Heavy Soldier:
+- Heavy Soldier: Charges into the battle throwing lots of snowballs at enemys.
 - Destroyers:
 - Snipers: Throws snowball at any enemies in range.
 - Spy: Spies on enemy forts, if caught can run fast and or can fight well. 
