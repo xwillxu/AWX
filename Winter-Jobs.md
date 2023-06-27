@@ -14,6 +14,6 @@
 - Defender: Defends the base from enemies coming from the ouside.
 - Light Soldier: Quick soldier that go and attack enemies by attacking then retreating and repeating this process.
 - Heavy Soldier: Charges into the battle throwing lots of snowballs at enemys.
-- Destroyers: Takes time to roll up big snowballs, than throws it at a enemy.
+- Destroyers: Take time to make a big snowball, then launch it a the enemy.
 - Snipers: Throws snowball at any enemies in range.
 - Spy: Spies on enemy forts, if caught can run fast and or can fight well. 
