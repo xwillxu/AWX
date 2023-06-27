@@ -1,5 +1,5 @@
 ## Winter Jobs: Available During Snow Wars: December 21st to March 11th
-#### Notice: Agents can have multiple jobs, 
+#### Notice: Agents can have multiple jobs, depending on rank.
 
 - Architect: Collects pieces of snow/ice from abondoned/broken snowballs then takes them back to base.
 - Builder: Builds up the walls surronding the base with collected pieces of ice. Also helps to build the trading post.
